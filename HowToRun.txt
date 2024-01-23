@@ -1,0 +1,26 @@
+    Open Android Studio:
+        If you don't have Android Studio installed, download and install it from the official website.
+
+    Create a New Project:
+        Open Android Studio and select "Start a new Android Studio project."
+        Choose an appropriate template for your project or choose "Empty Activity."
+
+    Set up the Project:
+        Fill in the project name, package name, and choose a location for your project.
+        Select the language as either Java or Kotlin.
+        Click "Finish" to create the project.
+
+    Replace the Contents:
+        Replace the contents of the res/layout/activity_main.xml file with the corrected XML layout provided earlier.
+        Replace the contents of the src/main/java/com/example/mycalculator/MainActivity.java file with the corrected Java code.
+
+    Run the App:
+        Connect an Android device to your computer or use an emulator.
+        Click on the green "Run" button in the toolbar, or press Shift + F10 to build and run the app.
+
+    Test the Calculator:
+        The app should launch on the emulator or connected device.
+        Test the calculator by clicking on digit buttons, operator buttons, and other buttons.
+        Verify that the calculator performs the correct calculations and displays the results.
+
+If everything is set up correctly, you should see the calculator app running on your emulator or device. Make sure to handle button clicks and implement the necessary logic in the initializeListeners method of the MainActivity.java file.
